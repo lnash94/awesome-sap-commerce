@@ -20,6 +20,7 @@
   - [GitHub](#github)
   - [Twitter](#twitter)
   - [Paid Courses](#paid-courses)
+  - [Connectors](#connectors)
 - [Related Technologies](#related-technologies)
   - [Ant](#ant)
   - [Groovy](#groovy)
@@ -232,6 +233,11 @@ _These courses are useful, but It does not cover the latest version._
 
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - A free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - Released on 2018.
+
+### Connectors
+_A connector is a software component that facilitates seamless communication and data exchange between different systems or services._
+
+- [Ballerina S/4HANA Sales Connectors](https://central.ballerina.io/search?q=sap.s4hana&sort=relevance%2CDESC&page=1&m=packages) - Ballerina SAP connectors for seamless integration with SAP S/4HANA.
 
 ## Related Technologies
 
